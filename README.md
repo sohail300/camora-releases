@@ -42,9 +42,9 @@ You need both: the app on your phone, and the app on your computer. Each release
 
 ## What it does
 
-- **Your phone as a webcam:** front or back camera, 720p or 1080p, and 60 fps if your phone supports it.
+- **Your phone as a webcam:** front or back camera, 720p up to 4K where your phone supports it (60 fps up to 1440p, 4K at 30 fps).
 - **USB or Wi-Fi:** USB has the lowest delay (about 150 ms from camera to screen on Windows) and charges the phone; over Wi-Fi you pair once with a 6-digit code and it reconnects by itself.
-- **Works everywhere:** Zoom, Google Meet, Microsoft Teams, OBS Studio and your browser see a camera called “Camora”.
+- **Works everywhere:** Zoom, Google Meet, Microsoft Teams, OBS Studio and your browser see a camera called “Camora”. Calls get 1080p; on Windows, OBS can take 1440p or 4K.
 - **Private:** no account, no cloud. The video goes straight from your phone to your computer, and the Wi-Fi link is encrypted.
 - **Free**, with no ads and no watermark.
 
